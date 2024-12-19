@@ -1,4 +1,4 @@
-# Delphi-Projects-Template
+# Client Delphi pour l'extension WebSocket de OBS Studio
 
 [Cette page en français.](LISEZMOI.md)
 
@@ -39,7 +39,7 @@ To download this code repository, we recommend using "git", but you can also dow
 
 This project uses dependencies in the form of sub-modules. They will be absent from the ZIP file. You'll have to download them by hand.
 
-* [YYY](ZZZ) must be installed in the ./lib-externes/YYY subfolder.
+* [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) must be installed in the ./lib-externes/obs-websocket subfolder.
 * [YYY](ZZZ) must be installed in the ./lib-externes/YYY subfolder.
 
 ## Compatibility
